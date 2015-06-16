@@ -1,0 +1,5 @@
+git config --global user.name "liall"
+git config --global user.email "ivan.naumenko17@gmail.com"
+//выбираем папку и если проект не инициализирован 
+git init
+git remote add first https://github.com/liall/first.git
